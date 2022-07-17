@@ -1,0 +1,25 @@
+.header{
+    background-color: rebeccapurple;
+    display: flex;
+    align-items: center;
+
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo{
+ max-width: 100px;
+} 
+
+
+.header .title-group i{
+    padding-right: 5px;
+    color:#ccc;
+}
+.header .title-group a{
+   color:#fff;
+}
